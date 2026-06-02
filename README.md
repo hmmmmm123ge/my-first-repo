@@ -1,9 +1,6 @@
-# my-first-repo
+## What i learn today
 
-A beginner github project 
-created during the workshop
+Iam currently attending a github workshop.
+Today I learned about : - version control - creating a reopstory - The edit -commit-push cycle
 
-#About me
-
-My name is **kaween**
-I am learning github
+My github profile: https://github.com/hmmmmm123ge
